@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently at ECE university and I studied in Ajou University<br>I’m stutying electronics and algorithm <br>I've made some projects that I want to share
+I'm currently at ECE university and I studied in Ajou University<br>I’m studying electronics and algorithm <br>I've made some projects that I want to share
 
 
 ## 🌐 Socials:
